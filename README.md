@@ -98,7 +98,6 @@ The workflow covers **data preprocessing, model training, evaluation, and visual
 | **Linear Regression** | *value* | *value* | *value*  |
 | **Deep Learning**     | *value* | *value* | *value*  |
 
-> **Note:** Replace *value* with actual results after running the script.
 
 ---
 
